@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QuickSum</string>
+    <string name="other">Other</string>
+    <string name="config">Configuration</string>
+    <string name="back">Back</string>
+    <string name="save">Save Colour</string>
+    
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+
+    <string name="b1">1</string>
+    <string name="b2">2</string>
+    <string name="b3">3</string>
+    <string name="b4">4</string>
+    <string name="b5">5</string>
+    <string name="b6">6</string>
+    <string name="b7">7</string>
+    <string name="b8">8</string>
+    <string name="b9">9</string>
+
+    <string name="b1_2">1/2</string>
+    <string name="b2_3">1/3</string>
+    <string name="b3_4">1/4</string>
+</resources>

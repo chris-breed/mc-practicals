@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GuessingGame</string>
+    <string name="settings_button">Change Settings</string>
+    <string name="back_button">Save Settings</string>
+    <string name="min">Minimum</string>
+    <string name="max">Maximum</string>
+    <string name="correct">You guessed the number!</string>
+    <string name="low">Try Lower!</string>
+    <string name="high">Try Higher!</string>
+</resources>
