@@ -14,9 +14,9 @@
         <fragment
             android:id="@+id/fragment2"
             android:name="com.practicals.chris.prac45_guesstheceleb.SecondaryFragment"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="1"
+            android:layout_weight=".5"
             app:layout_behavior="@string/appbar_scrolling_view_behavior"
             tools:layout="@layout/fragment_secondary"
             tools:layout_editor_absoluteX="373dp"
@@ -25,9 +25,9 @@
         <fragment
             android:id="@+id/fragment"
             android:name="com.practicals.chris.prac45_guesstheceleb.MainActivityFragment"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="1"
+            android:layout_weight=".5"
             app:layout_behavior="@string/appbar_scrolling_view_behavior"
             tools:layout="@layout/fragment_main"
             tools:layout_editor_absoluteX="16dp"
